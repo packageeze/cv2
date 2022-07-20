@@ -1,4 +1,4 @@
-# sketch of a image
+# sketch of an image
 import cv2
 img=cv2.imread("filename.jpg")
 img_grey=cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
